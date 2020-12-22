@@ -7,5 +7,19 @@
         <item>Corrientes</item>
         <item>Cordoba</item>
         <item>Misiones</item>
+        <item>Formosa</item>
+        <item>Chaco</item>
+        <item>San Luis</item>
+        <item>San Juan</item>
+        <item>Tierra del Fuego</item>
+        <item>La Rioja</item>
+        <item>Catamarca</item>
+        <item>Salta</item>
+        <item>Jujuy</item>
+        <item>Tucuman</item>
+        <item>Chubut</item>
+        <item>Neuquen</item>
+        <item>Rio Negro</item>
+        <item>Rio Gallegos</item>
     </string-array>
 </resources>
