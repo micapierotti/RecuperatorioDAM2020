@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">RecuperatorioDAM2020</string>
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD6unyo5s6jp67_9_E6Y6pod60IqJW4mws</string>
+    <string name="ingrese_su_ciudad">Ingrese su ciudad:</string>
+    <string name="ejemplo_paran">Ejemplo: Paraná</string>
+    <string name="ir_al_mapa">Ir al mapa</string>
 </resources>

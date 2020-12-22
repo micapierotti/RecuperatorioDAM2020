@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="defaultValue">
+        <item>Entre Rios</item>
+        <item>Santa Fe</item>
+        <item>Buenos Aires</item>
+        <item>Corrientes</item>
+        <item>Cordoba</item>
+        <item>Misiones</item>
+    </string-array>
+</resources>
